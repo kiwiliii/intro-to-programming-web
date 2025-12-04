@@ -1,0 +1,9 @@
+body {background-color: rgb(163, 152, 255);}
+h1 {font-family: fantasy;}
+p {color: blue;}
+ol {background-color: bisque;}
+ul {background-color: aquamarine;}
+h2 {font-size: 1cm;}
+h3 {border-style: dotted;
+    border-width: 0.05cm;
+    border-color: rgb(112, 34, 34);}
